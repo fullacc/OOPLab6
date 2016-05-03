@@ -1,0 +1,2 @@
+Abstract class Graphics, Graphics2D;
+Abstract methods of Graphics class=[create, drawLine, drawOval, getColor, translate,setFont, setColor, setClip, getClip]
